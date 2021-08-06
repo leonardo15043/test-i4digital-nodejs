@@ -1,0 +1,93 @@
+undefined
+undefined
+undefined
+undefined
+{"message":"Server Running","level":"info"}
+{"message":"Server Running","level":"info"}
+{"message":"Server Running","level":"info"}
+{"message":"Server Running","level":"info"}
+undefined
+undefined
+leo
+leo
+{"message":"Server Running","level":"info"}
+{"message":"Server Running","level":"info"}
+[object Object]
+[object Object]
+[object Object]
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:10:24.924Z","service":"test-service","logger":"Winston-JSON-Formatter","version":"1.0.0","typeFormat":"json","hostname":"DESKTOP-MEL8LDH"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:10:40.733Z","service":"test-service","logger":"Winston-JSON-Formatter","version":"1.0.0","typeFormat":"json","hostname":"DESKTOP-MEL8LDH"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:10:42.446Z","service":"test-service","logger":"Winston-JSON-Formatter","version":"1.0.0","typeFormat":"json","hostname":"DESKTOP-MEL8LDH"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:11:18.857Z","service":"test-service","logger":"Winston-JSON-Formatter","version":"1.0.0","typeFormat":"json","hostname":"DESKTOP-MEL8LDH"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:13:24.395Z","service":"test-service","logger":"Winston-JSON-Formatter","version":"1.0.0","typeFormat":"json","hostname":"DESKTOP-MEL8LDH"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:13:39.622Z","service":"test-service","logger":"Winston-JSON-Formatter","version":"1.0.0","typeFormat":"json","hostname":"DESKTOP-MEL8LDH"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:16:33.811Z","service":"test-service","logger":"Winston-JSON-Formatter","version":"1.0.0","typeFormat":"json","hostname":"DESKTOP-MEL8LDH"}
+{"requestId":"451","message":"Server Running","level":"info","timestamp":"2021-08-06T18:21:10.894Z"}
+{"requestId":"451","message":"Server Running","level":"info","timestamp":"2021-08-06T18:21:19.332Z"}
+{"requestId":"451","message":"Server Running","level":"info","timestamp":"2021-08-06T18:21:39.141Z"}
+{"requestId":"451","message":"Server Running","level":"info","timestamp":"2021-08-06T18:26:47.479Z"}
+{"requestId":"451","message":"Server Running","level":"info","timestamp":"2021-08-06T18:26:57.822Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:49.435Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:49.918Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:50.387Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:50.853Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:51.324Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:51.791Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:52.258Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:52.723Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:53.186Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:53.653Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:54.116Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:54.579Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:55.049Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:55.512Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:55.981Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:56.446Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:56.907Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:57.372Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:57.835Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:58.308Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:58.776Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:59.240Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:27:59.703Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:00.173Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:00.641Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:01.106Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:01.570Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:02.037Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:02.504Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:02.970Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:03.432Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:03.900Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:04.366Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:28:04.828Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:32:25.741Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:32:38.915Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:34:23.331Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:34:53.604Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:35:35.081Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:36:22.128Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:36:34.043Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:37:57.108Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:38:31.837Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:39:58.873Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:41:55.224Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:42:58.657Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:44:52.623Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:45:28.531Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:46:07.123Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:47:16.407Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:48:03.606Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:48:31.742Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T18:48:40.737Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:02:35.794Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:02:56.596Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:07:35.676Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:07:43.488Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:14:15.012Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:15:48.416Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:15:52.306Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:16:10.460Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:16:14.744Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:16:28.714Z"}
+{"message":"Server Running","level":"info","timestamp":"2021-08-06T20:18:03.012Z"}

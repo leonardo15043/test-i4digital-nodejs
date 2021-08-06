@@ -1,4 +1,5 @@
 const Router = require("express");
+const config = require('../config.js');
 const router = Router();
 const fetch = require('node-fetch');
 const _ = require('underscore');
@@ -6,7 +7,7 @@ const _ = require('underscore');
 //Listar a los usuarios.
 
 router.get('/', async (req,res)=>{
-    const response = await fetch('https://jsonplaceholder.typicode.com/users');
+    const response = await fetch(config.URL_API+'users');
     const users = await response.json();
     res.json(users);
 });
@@ -14,10 +15,10 @@ router.get('/', async (req,res)=>{
 // Consultar fotos de un usuario.
 
 router.get('/:id/photos/', async (req,res)=>{
-    const albums = await fetch('https://jsonplaceholder.typicode.com/users/'+req.params.id+'/albums');
+    const albums = await fetch(config.URL_API+'users/'+req.params.id+'/albums');
     const data = await albums.json();
     _.each(  data, async (album,i)=>{ 
-        const photos = await fetch('https://jsonplaceholder.typicode.com/albums/'+album.id+'/photos');
+        const photos = await fetch(config.URL_API+'albums/'+album.id+'/photos');
         res.json(await photos.json());
     });
 });

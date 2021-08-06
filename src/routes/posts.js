@@ -1,15 +1,16 @@
 const Router = require("express");
+const config = require('../config.js');
 const router = Router();
 const fetch = require('node-fetch');
 
 const xl = require('excel4node');
 const logger = require("../utils/logger");
-let datalog = require("../logs/log-api.log");
+
 
 // Listar publicaciones.
 
 router.get('/', async (req,res)=>{
-    const response = await fetch('https://jsonplaceholder.typicode.com/posts');
+    const response = await fetch(config.URL_API+'posts');
     const posts = await response.json();
     res.json(posts);
 });
@@ -18,7 +19,7 @@ router.get('/', async (req,res)=>{
 
 router.put('/:id/', async (req,res)=>{
     const body = req.body;
-    const response = await fetch('https://jsonplaceholder.typicode.com/posts/'+req.params.id, {
+    const response = await fetch(config.URL_API+'posts/'+req.params.id, {
         method: 'PUT',
         body: JSON.stringify(body),
         headers: {
@@ -32,7 +33,7 @@ router.put('/:id/', async (req,res)=>{
 // Eliminar registro de una petición.
 
 router.delete('/:id/', async (req,res)=>{
-    const response = await fetch('https://jsonplaceholder.typicode.com/posts/'+req.params.id, {
+    const response = await fetch(config.URL_API+'posts/'+req.params.id, {
         method: 'DELETE'
     });
     const post = await response.json();
@@ -40,12 +41,6 @@ router.delete('/:id/', async (req,res)=>{
     logger.info("Usuario eliminado",res);
 });
 
-// Listar Registros de peticiones realizadas. 
-
-router.get('/logs', async (req,res)=>{
-    const log = JSON.stringify(datalog);
-    res.json(log);
-});
 
 // Exportar registros en base64
 
